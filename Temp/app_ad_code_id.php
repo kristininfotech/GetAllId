@@ -1,0 +1,22 @@
+{
+	"ad_id":
+		[
+			{
+			"g_ad":"1",
+			"fb_ad":"0",
+			"adpub_id":"pub-3940256099942544",
+			"adapp_id":"ca-app-pub-3940256099942544~3347511713",
+			"adappopen_id":"ca-app-pub-3940256099942544/1033173712",
+			"adbanner_id":"ca-app-pub-3940256099942544/6300978111",
+			"adbanner_rect_id":"ca-app-pub-3940256099942544/6300978111",
+			"adinterstial_id":"ca-app-pub-3940256099942544/1033173712",
+			"adnativebanner_id":"ca-app-pub-3940256099942544/2247696110",
+			"adfbbanner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"adfbinterstial_id":"YOUR_PLACEMENT_ID",
+			"adfbnative_id":"YOUR_PLACEMENT_ID",
+			"adfbnative_banner_id":"YOUR_PLACEMENT_ID",		
+			"adfbrectangle_banner_id":"YOUR_PLACEMENT_ID",
+			"adShow_time_duration":"5"
+			}
+		]
+}
